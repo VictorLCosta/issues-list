@@ -1,0 +1,49 @@
+table {
+    background: #fff;
+    border-radius: .5rem;
+    border-collapse: collapse;
+    overflow: hidden;
+}
+
+table input[type="checkbox" i] {
+    width: 18px;
+    height: 18px;
+}
+
+table thead tr {
+    border-bottom: 2px solid #dee2e6;
+}
+
+table thead tr th {
+    font-weight: 600;
+    text-align: left;
+    padding-block: 1.5rem;
+    padding-inline: 1rem;
+}
+
+table tbody tr td {
+    padding-block: 1.5rem;
+    vertical-align: middle;
+    padding-inline: 1rem;
+    cursor: pointer;
+}
+
+table tbody tr:is(:focus, :hover) td {
+    background: #dee2e6;
+}
+
+.green-circle {
+    border-radius: 50%;
+    background: greenyellow;
+    height: 15px;
+    width: 15px;
+    display: inline-block;
+}
+
+.red-circle {
+    border-radius: 50%;
+    background: red;
+    height: 15px;
+    width: 15px;
+    display: inline-block;
+}
