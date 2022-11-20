@@ -1,29 +1,38 @@
 [
-    {
-        "id": "c9613c41-32f0-435e-aef2-b17ce758431b",
-        "name": "TypeError",
-        "message": "Cannot read properties of undefined (reading 'length')",
-        "status": "open",
-        "numEvents": 105,
-        "numUsers": 56,
-        "value": 1
-    },
-    {
-        "id": "1f62d084-cc32-4c7b-943d-417c5dac896e",
-        "name": "TypeError",
-        "message": "U is not a function",
-        "status": "resolved",
-        "numEvents": 45,
-        "numUsers": 34,
-        "value": 1
-    },
-    {
-        "id": "52de3327-c65d-4c2a-a653-df52a429d29c",
-        "name": "ReferenceError",
-        "message": "C is not defined",
-        "status": "open",
-        "numEvents": 67,
-        "numUsers": 22,
-        "value": 1
-    }
+	{
+		"id": "c9613c41-32f0-435e-aef2-b17ce758431b",
+		"name": "TypeError",
+		"message": "Cannot read properties of undefined (reading 'length')",
+		"status": "open",
+		"numEvents": 105,
+		"numUsers": 56,
+		"value": 1
+	},
+	{
+		"id": "1f62d084-cc32-4c7b-943d-417c5dac896e",
+		"name": "TypeError",
+		"message": "U is not a function",
+		"status": "resolved",
+		"numEvents": 45,
+		"numUsers": 34,
+		"value": 1
+	},
+	{
+		"id": "52de3327-c65d-4c2a-a653-df52a429d29c",
+		"name": "ReferenceError",
+		"message": "C is not defined",
+		"status": "open",
+		"numEvents": 67,
+		"numUsers": 22,
+		"value": 1
+	},
+	{
+		"id": "785b3dba-3827-425f-89eb-634286275925",
+		"name": "FormatError",
+		"message": "Sting is not a type",
+		"status": "open",
+		"numEvents": 20,
+		"numUsers": 25,
+		"value": 1
+	}
 ]
